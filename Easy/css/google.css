@@ -1,0 +1,49 @@
+html {
+  font-family :arial,sans-serif;
+}
+
+#nav {
+  position: relative;
+  margin-right: 30px;
+  height:50px;
+}
+div ul{
+  list-style-type: none;
+  float: right;
+}
+
+li {
+  display:inline;
+  margin:0 10px;
+}
+
+li a{
+  font-size:13px;
+}
+
+li a:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+li a img{
+  top:12px;
+  position: relative;
+  width:30px;
+  height:30px;
+}
+
+li a .google_n {
+  box-sizing: border-box;
+  padding:5px;
+  border:1.5px black solid;
+  border-radius: 100%;
+
+}
+
+li a .google_account {
+  border-radius: 100%;
+  width:45px;
+  height: 45px;
+  top:15px;
+}
