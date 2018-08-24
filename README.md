@@ -3,7 +3,7 @@ This is project that given me to me by www.odinproject.com.The all mighty odin o
 This project maybe doesn't great at it's effectiveness and efficiency at code
 It actually show what i've learnt from odinproject HTML and CSS study material
 
-##Skills
+## Skills
 Skills that i use are completely basic HTML and CSS
 
 HTML
